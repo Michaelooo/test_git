@@ -1,1 +1,2 @@
-core.ignorecase=false
+[core]
+  ignorecase = false
